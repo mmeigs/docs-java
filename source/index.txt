@@ -35,7 +35,7 @@ MongoDB Java Driver
 Introduction
 ------------
 
-Welcome to the documentation site for the Java Driver, the official
+Welcome to the MATTY documentation site for the Java Driver, the official
 MongoDB driver for synchronous Java applications. Download it using
 `Maven <https://maven.apache.org/>`__ or
 `Gradle <https://gradle.org/>`__, or set up a runnable project by
